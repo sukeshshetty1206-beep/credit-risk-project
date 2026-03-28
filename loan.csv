@@ -1,0 +1,11 @@
+loan_amnt,term,int_rate,installment,annual_inc,dti,delinq_2yrs,revol_util,loan_status
+5000,36 months,10.65%,162.87,24000,27.65,0,83.7%,Fully Paid
+2500,36 months,15.27%,59.83,30000,1.00,0,9.4%,Charged Off
+2400,36 months,15.96%,84.33,12252,8.72,0,98.5%,Fully Paid
+10000,36 months,13.49%,339.31,49200,20.00,0,21%,Fully Paid
+3000,36 months,12.69%,67.79,80000,17.94,0,53.9%,Charged Off
+5000,36 months,7.90%,156.46,36000,11.20,0,28.3%,Fully Paid
+7000,60 months,15.96%,170.08,47000,23.00,0,85.6%,Charged Off
+8000,36 months,10.75%,260.00,52000,12.00,0,40.0%,Fully Paid
+9000,60 months,18.25%,230.00,60000,18.00,1,70.0%,Charged Off
+4000,36 months,11.99%,133.00,45000,15.00,0,60.0%,Fully Paid
